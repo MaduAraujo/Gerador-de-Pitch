@@ -4,6 +4,10 @@
 
 # Gerador de Pitch com IA
 
+## Demonstração
+
+https://github.com/user-attachments/assets/8d4d82cc-fe01-472d-aed5-ec31850b2c43
+
 ## Sobre o Projeto
 
 O **Gerador de Pitch** é uma aplicação que utiliza o poder da Inteligência Artificial para transformar uma simples ideia de negócio em um roteiro de pitch 
